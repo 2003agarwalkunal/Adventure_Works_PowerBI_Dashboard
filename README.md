@@ -1,1 +1,2 @@
-# Power-Bi-Project
+•	This project aims to develop an advanced Power BI dashboard to track key performance indicators (KPIs) for a global manufacturing company specializing in cycling equipment and accessories. The dashboard will provide a comprehensive view of sales, profit, revenue, and returns, enabling stakeholders to monitor performance, identify trends, and make data-driven decisions
+•	Tech stack used: Microsoft Power BI & Excel
